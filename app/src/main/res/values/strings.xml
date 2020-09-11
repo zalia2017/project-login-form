@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">latihanShape</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="register_now">Not a Member? Register Now</string>
+    <string name="login_toApps">Login to Zalia Apps</string>
+</resources>
